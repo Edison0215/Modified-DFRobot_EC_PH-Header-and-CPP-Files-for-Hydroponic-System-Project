@@ -1,4 +1,4 @@
-Modified DFRobot ECPH library
+# Modified DFRobot ECPH library
 Description:
 
 DFRobot manufacturer provides 2 separate libraries for their EC probe and pH probe.
@@ -7,5 +7,5 @@ To resolve the issue, merging these 2 libraries into one single library is perfo
 The code is also further modified by adding command handlings for the "ECPHUP" and "ECPHDOWN".
 The added commands are used for nutrient regulation control.
 
-# Declaration
+## Declaration
 The 2 orignal libraries are taken from https://github.com/greenponik/DFRobot_ESP_EC_BY_GREENPONIK and https://github.com/GreenPonik/DFRobot_ESP_PH_BY_GREENPONIK as references to produce the Modified DFRobot ECPH library.
